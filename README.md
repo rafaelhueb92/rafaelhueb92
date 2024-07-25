@@ -1,4 +1,4 @@
-# Hello, I'm Rafael Gabriel Hueb! 👋
+# Hello, I'm Rafa! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rafaelgabrielhueb/)
 
