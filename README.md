@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm a seasoned Full Stack Developer and Cloud Solu
 🏆 **AWS Certified Solutions Architect / Developer / SysOps Administrator**  
 🏆 **HashiCorp Certified: Terraform Associate**  
 🏆 **OpenJS Node.js Services Developer**
-🏆 **Certified Kubernetes Application Developer**
-🏆 **Certified Entry-Level Python Programmer!**
+🏆 **Certified Kubernetes Application Developer** </br>
+🏆 **Certified Entry-Level Python Programmer!** </br>
 
 
 ## Technical Skills
