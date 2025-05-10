@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I'm a seasoned Full Stack Developer and Cloud Solu
 🏆 **Certified Kubernetes Application Developer** </br>
 🏆 **Certified Entry-Level Python Programmer!**
 
-
 ## Technical Skills
 
 ☁️ **Cloud Technologies**: AWS, Terraform, Serverless  
@@ -68,10 +67,4 @@ Here's a trophy of my achievements:
 
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=rafaelhueb92)](https://github.com/ryo-ma/github-profile-trophy)
 
-And here's a snake animation of my contributions:
-
-![Snake animation](https://github.com/rafaelhueb92/rafaelhueb92/blob/output/github-contribution-grid-snake.svg)
-
 Thanks for visiting my GitHub profile, and I look forward to connecting with you!
-
-
