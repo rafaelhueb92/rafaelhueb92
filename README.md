@@ -60,8 +60,6 @@ I'm passionate about leveraging my skills and experience to drive technological 
 
 Here's a quick overview of my GitHub stats:
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Here's a trophy of my achievements:
