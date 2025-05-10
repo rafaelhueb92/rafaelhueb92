@@ -60,6 +60,8 @@ I'm passionate about leveraging my skills and experience to drive technological 
 
 Here's a quick overview of my GitHub stats:
 
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelhueb92&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Here's a trophy of my achievements:
@@ -72,4 +74,4 @@ And here's a snake animation of my contributions:
 
 Thanks for visiting my GitHub profile, and I look forward to connecting with you!
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelhueb92&show_icons=true&theme=radical)
+
