@@ -58,6 +58,20 @@ I'm passionate about leveraging my skills and experience to drive technological 
 📫 **Email**: [rafaelhueb92@gmail.com](mailto:rafaelhueb92@gmail.com)  
 🌐 **LinkedIn**: [Rafael Gabriel Hueb](https://www.linkedin.com/in/rafaelgabrielhueb/)
 
+Here's a quick overview of my GitHub stats:
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+Here's a trophy of my achievements:
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/ryo-ma/github-profile-trophy)
+
+And here's a snake animation of my contributions:
+
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+
 Thanks for visiting my GitHub profile, and I look forward to connecting with you!
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelhueb92&show_icons=true&theme=radical)
