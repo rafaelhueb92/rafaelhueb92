@@ -62,15 +62,15 @@ Here's a quick overview of my GitHub stats:
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelhueb92&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhueb92&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Here's a trophy of my achievements:
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=rafaelhueb92)](https://github.com/ryo-ma/github-profile-trophy)
 
 And here's a snake animation of my contributions:
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaelhueb92/rafaelhueb92/blob/output/github-contribution-grid-snake.svg)
 
 Thanks for visiting my GitHub profile, and I look forward to connecting with you!
 
