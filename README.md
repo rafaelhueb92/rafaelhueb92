@@ -20,9 +20,7 @@ I am a **Senior Platform Engineer** focused on bridging the gap between software
 - **HashiCorp Certified: Terraform Associate**
 - **AWS Certified AI Practitioner**
 
-### 🪐 Check it out my galaxy!
-<!-- This is the "Interesting Gadget" - A dynamic stats card -->
-[https://github-readme-stats.vercel.app/api?username=rafaelhueb92&show_icons=true&theme=radical&rank_icon=github&border_radius=10](https://thedevgalaxy.vercel.app/galaxy/rafaelhueb92)
+<img src='https://www.gitclear.com/snap_changelogs/b02dd34c-b375-42b5-a1c0-bbfaac42917b.png' />
 
 ---
 [LinkedIn](https://www.linkedin.com/in/rafahueb/) | [GitHub](https://www.github.com/rafaelhueb92)
