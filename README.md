@@ -1,4 +1,4 @@
-# Rafael Hueb a "simple" Senior Platform Architect 🏗️
+# Rafael Hueb SWE + DevOps + AI = AI Platform Engineer 🏗️
 
 <a href="https://www.linkedin.com/in/rafahueb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rafaelhueb92.rafaelhueb92)
